@@ -15,5 +15,13 @@ try:
         print(f"Plus: {num1 + num2}")
     elif option== 1:
         print(f"Subtract: {num1 - num2}")
+    elif option== 2:
+        print(f"Multiplication: {num1 * num2}")
+    elif option== 3:
+        print(f"Division: {num1 / num2}")
+    else:
+        print("Invalid action!")
+except ZeroDivisionError:
+    print("Cant handle zero division")
 except:
     print("Bye")
