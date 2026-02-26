@@ -3,24 +3,28 @@
 
 **Short description of this proyect** This calculator have funtionality of decode in console basic operation.
 ### Prerequisitos
-1) Tener un computador con python instalado.
-2) Saber cmd
-3) tener teclado.
+1) Tener un computador con Python instalado.
+2) Conocer comandos de CMD (Windows) o de terminal de Linux.
+3) Tener teclado.
 
 ### Paso a paso
-/Debes tener para este punto python instalado/
-1) Debes abrir tu editor de codigo y pegar nuestro codigo.
-2) Presionar F5
-3) En consola colocar el numero correspondiente por operacion.
-        import sys
+/Para este punto debes tener Python instalado/
+1) Debes abrir tu editor de codigo y pegar nuestro código.
+2) Presionar F5 para ejecutarlo.
+3) Escoger el número correspondiente de la operación asignada.
+   
         print("Welcome to calculator.py")
-
         options=["Plus (0)","Subtract (1)","Multiplication (2)","Division (3)","Exit (4)"]
         for op in options:
         print(op)
-# author
-Daniel Alzate
-Ricardo
-Jose 
-Luis
-Auri
+   
+# Authors
+-Daniel Alzate
+
+-Ricardo Torres
+
+-Jose Marenco
+
+-Luis Pozzo
+
+-Auri Valdes
