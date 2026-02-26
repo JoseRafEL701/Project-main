@@ -7,10 +7,6 @@
 2) Saber cmd
 3) tener teclado.
 
-### Prerequirements 
-1) Have a computer with Python installed.
-2) Command prompt (cmd)
-3) Have a keyboard.
 ### Paso a paso
 /Debes tener para este punto python instalado/
 1) Debes abrir tu editor de codigo y pegar nuestro codigo.
