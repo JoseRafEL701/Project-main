@@ -28,6 +28,6 @@ while True:
             print("Invalid action!")
     except ZeroDivisionError:
         print("Cant handle zero division")
-    except Exception:
+    except:
         print("Invalid input, returning to menu")
 print("Program terminated.")
