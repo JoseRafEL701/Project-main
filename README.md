@@ -1,7 +1,7 @@
 # Calculadora en Python 
 **Breve descripcióń del proyecto:** Esta calculadora tiene como funcionalidad interpretar en consola operaciones basicas.
 
-**Short description of this proyect** This calculator have funtionality of decode in console basic operation.
+**Short description of this proyect:** This calculator have funtionality of decode in console basic operation.
 ### Prerequisitos
 1) Tener un computador con Python instalado.
 2) Conocer comandos de CMD (Windows) o de terminal de Linux.
